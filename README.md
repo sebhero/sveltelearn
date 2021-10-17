@@ -1,3 +1,8 @@
+# Learning SvelteKit
+
+Demo project for learning svelte. following https://www.youtube.com/watch?v=UU7MgYIbtAk&t=662s
+Sveltekit Crash Course.
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
